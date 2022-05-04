@@ -7,13 +7,13 @@ import (
 	"strconv"
 	"strings"
 
+	"github.com/erlangs/hexya-base/basetypes"
 	"github.com/erlangs/okoo/src/actions"
 	"github.com/erlangs/okoo/src/models"
 	"github.com/erlangs/okoo/src/models/fieldtype"
 	"github.com/erlangs/okoo/src/models/security"
 	"github.com/erlangs/pool/h"
 	"github.com/erlangs/pool/m"
-	"github.com/hexya-addons/base/basetypes"
 )
 
 func configSettings_Copy(rs m.ConfigSettingsSet, _ m.ConfigSettingsData) m.ConfigSettingsSet {
