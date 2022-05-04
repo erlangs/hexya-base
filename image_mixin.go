@@ -4,11 +4,11 @@
 package base
 
 import (
-	"github.com/hexya-erp/hexya/src/models"
-	"github.com/hexya-erp/hexya/src/models/fields"
-	"github.com/hexya-erp/hexya/src/tools/b64image"
-	"github.com/hexya-erp/pool/h"
-	"github.com/hexya-erp/pool/m"
+	"github.com/erlangs/okoo/src/models"
+	"github.com/erlangs/okoo/src/models/fields"
+	"github.com/erlangs/okoo/src/tools/b64image"
+	"github.com/erlangs/pool/h"
+	"github.com/erlangs/pool/m"
 )
 
 var fields_ImageMixin = map[string]models.FieldDefinition{

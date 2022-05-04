@@ -15,11 +15,11 @@
 package base
 
 import (
-	"github.com/hexya-erp/hexya/src/models"
-	"github.com/hexya-erp/hexya/src/models/security"
-	"github.com/hexya-erp/hexya/src/server"
-	"github.com/hexya-erp/hexya/src/tools/logging"
-	"github.com/hexya-erp/pool/h"
+	"github.com/erlangs/okoo/src/models"
+	"github.com/erlangs/okoo/src/models/security"
+	"github.com/erlangs/okoo/src/server"
+	"github.com/erlangs/okoo/src/tools/logging"
+	"github.com/erlangs/pool/h"
 )
 
 const (

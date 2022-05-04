@@ -15,15 +15,15 @@ import (
 	"regexp"
 	"strings"
 
+	"github.com/erlangs/okoo/src/actions"
+	"github.com/erlangs/okoo/src/models"
+	"github.com/erlangs/okoo/src/models/fields"
+	"github.com/erlangs/okoo/src/models/types"
+	"github.com/erlangs/okoo/src/tools/strutils"
+	"github.com/erlangs/pool/h"
+	"github.com/erlangs/pool/m"
+	"github.com/erlangs/pool/q"
 	"github.com/google/uuid"
-	"github.com/hexya-erp/hexya/src/actions"
-	"github.com/hexya-erp/hexya/src/models"
-	"github.com/hexya-erp/hexya/src/models/fields"
-	"github.com/hexya-erp/hexya/src/models/types"
-	"github.com/hexya-erp/hexya/src/tools/strutils"
-	"github.com/hexya-erp/pool/h"
-	"github.com/hexya-erp/pool/m"
-	"github.com/hexya-erp/pool/q"
 	"github.com/spf13/viper"
 )
 

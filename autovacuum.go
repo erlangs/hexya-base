@@ -4,10 +4,10 @@
 package base
 
 import (
-	"github.com/hexya-erp/hexya/src/models"
-	"github.com/hexya-erp/hexya/src/models/security"
-	"github.com/hexya-erp/pool/h"
-	"github.com/hexya-erp/pool/m"
+	"github.com/erlangs/okoo/src/models"
+	"github.com/erlangs/okoo/src/models/security"
+	"github.com/erlangs/pool/h"
+	"github.com/erlangs/pool/m"
 )
 
 // GCUserLogs garbage collects old user log instances

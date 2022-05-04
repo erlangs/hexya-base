@@ -6,11 +6,11 @@ package base
 import (
 	"fmt"
 
-	"github.com/hexya-erp/hexya/src/models"
-	"github.com/hexya-erp/hexya/src/models/fields"
-	"github.com/hexya-erp/pool/h"
-	"github.com/hexya-erp/pool/m"
-	"github.com/hexya-erp/pool/q"
+	"github.com/erlangs/okoo/src/models"
+	"github.com/erlangs/okoo/src/models/fields"
+	"github.com/erlangs/pool/h"
+	"github.com/erlangs/pool/m"
+	"github.com/erlangs/pool/q"
 	"github.com/spf13/viper"
 )
 

@@ -4,10 +4,10 @@
 package base
 
 import (
-	"github.com/hexya-erp/hexya/src/models"
-	"github.com/hexya-erp/pool/h"
-	"github.com/hexya-erp/pool/m"
-	"github.com/hexya-erp/pool/q"
+	"github.com/erlangs/okoo/src/models"
+	"github.com/erlangs/pool/h"
+	"github.com/erlangs/pool/m"
+	"github.com/erlangs/pool/q"
 )
 
 // ToggleActive toggles the Active field of this object if it exists.

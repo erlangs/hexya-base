@@ -4,7 +4,7 @@
 package basetypes
 
 import (
-	"github.com/hexya-erp/hexya/src/models"
+	"github.com/erlangs/okoo/src/models"
 )
 
 // An AddressData holds address data for formating an address

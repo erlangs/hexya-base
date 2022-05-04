@@ -7,10 +7,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/hexya-erp/hexya/src/models"
-	"github.com/hexya-erp/hexya/src/models/security"
-	"github.com/hexya-erp/pool/h"
-	"github.com/hexya-erp/pool/q"
+	"github.com/erlangs/okoo/src/models"
+	"github.com/erlangs/okoo/src/models/security"
+	"github.com/erlangs/pool/h"
+	"github.com/erlangs/pool/q"
 	. "github.com/smartystreets/goconvey/convey"
 )
 
