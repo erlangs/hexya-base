@@ -18,6 +18,7 @@ import (
 	"text/template"
 	"time"
 
+	"github.com/erlangs/hexya-base/basetypes"
 	"github.com/erlangs/okoo/src/actions"
 	"github.com/erlangs/okoo/src/i18n"
 	"github.com/erlangs/okoo/src/models"
@@ -34,7 +35,6 @@ import (
 	"github.com/erlangs/pool/h"
 	"github.com/erlangs/pool/m"
 	"github.com/erlangs/pool/q"
-	"github.com/hexya-addons/base/basetypes"
 	"github.com/spf13/viper"
 )
 

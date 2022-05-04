@@ -6,13 +6,13 @@ package base
 import (
 	"testing"
 
+	"github.com/erlangs/hexya-base/basetypes"
 	"github.com/erlangs/okoo/src/models"
 	"github.com/erlangs/okoo/src/models/fields"
 	"github.com/erlangs/okoo/src/models/security"
 	"github.com/erlangs/okoo/src/models/types"
 	"github.com/erlangs/pool/h"
 	"github.com/erlangs/pool/m"
-	"github.com/hexya-addons/base/basetypes"
 	. "github.com/smartystreets/goconvey/convey"
 )
 
